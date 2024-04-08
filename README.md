@@ -1,2 +1,3 @@
-# infrastructure
-🏗️ Datonic digital infrastructure, as code
+# 🏗️ Datonic Infrastructure
+
+Datonic digital infrastructure, as code.
